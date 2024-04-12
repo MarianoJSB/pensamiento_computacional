@@ -1,0 +1,5 @@
+print("Abrir la heladera")
+print("Agarrar el jugo")
+print("Cerrar la heladera")
+print("Agarrar un vaso")
+print("Servir el jugo")

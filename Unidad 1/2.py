@@ -1,0 +1,5 @@
+print("Agarrar el queso")
+print("Agarrar el pan")
+print("Colocar el queso en el pan")
+print("Prender la tostadora")
+print("Colocar la el pan con queso dentro de la tostadora")

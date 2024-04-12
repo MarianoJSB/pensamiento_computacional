@@ -1,0 +1,5 @@
+print("Hacer una convocatoria")
+print("Esperar a que venga la gente a la convocatoria")
+print("Verificar que sea un alimento no perecedero")
+print("Guardar los alimentos en una caja")
+print("LLevar los alimentos a los encargados")
