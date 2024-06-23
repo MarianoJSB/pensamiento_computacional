@@ -1,0 +1,5 @@
+file = open("1/pregunta.txt", "r+")
+print(file.readline())
+user = input("")
+file.write(f"\n{user}")
+file.close()
